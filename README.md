@@ -45,9 +45,6 @@ Sales-Forecasting-Analytics/
 │
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## Business Impact
